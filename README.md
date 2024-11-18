@@ -20,16 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Liberando a Mente: Como transformar pensamentos negativos em pensamentos e ações positivas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um auto ajuda para aqueles que se sentem presos a própria mente
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Copilot
+Leonardo AI
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ChatGPT: Criação de tópicos relevantes
+Copilot: Refinamento de assuntos 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
