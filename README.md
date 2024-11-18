@@ -3,8 +3,7 @@
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Oi pessoal! Fui desafiada pela DIO para fazer um projeto utilizando IAS generativas para criação de conteúdo que sejam tão bons que alguem poderia dizer que foi feita por humanos!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -40,7 +39,8 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-Constantemente revisando a IA para se adequar ao meu 
+Constantemente tive que revisar a IA para se adequar ao meu tipo de trabalho, o propomt ainda é difícil pra mim, mas as IAS me ajudam
+em diferentes áreas de conhecimento gerando e aperfeiçoando ideias de todos os tipos 
 ```
 
 ### Exemplos e Insigths
