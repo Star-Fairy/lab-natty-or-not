@@ -40,6 +40,7 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+Constantemente revisando a IA para se adequar ao meu 
 ```
 
 ### Exemplos e Insigths
