@@ -39,8 +39,8 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-Constantemente tive que revisar a IA para se adequar ao meu tipo de trabalho, o propomt ainda é difícil pra mim, mas as IAS me ajudam
-em diferentes áreas de conhecimento gerando e aperfeiçoando ideias de todos os tipos 
+Constantemente tive que revisar a IA para se adequar ao meu tipo de trabalho, o propomt ainda é difícil pra mim, mas as IAS
+me ajudam em diferentes áreas de conhecimento gerando e aperfeiçoando ideias de todos os tipos. 
 ```
 
 ### Exemplos e Insigths
