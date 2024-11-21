@@ -17,13 +17,13 @@ Leonardo AI
 
 
 ## 🧐 Processo de Criação
-ChatGPT: Criação de tópicos relevantes
+ChatGPT: Criação de tópicos relevantes, imagem para ilustração 
 Copilot: Refinamento de Textos, assuntos e frases
 Leonardo AI: Criação de Arte da Capa
 Microsoft Word: Edição de Texo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Ebook conta com dicas úteis e práticas sobre como melhorar a saúde mental e quebrar o ciclo de negatividade na mente
 
 ## 💭 Reflexão
 Constantemente tive que revisar a IA para se adequar ao meu tipo de visão, o propomt ainda é difícil pra mim, mas as IAS
