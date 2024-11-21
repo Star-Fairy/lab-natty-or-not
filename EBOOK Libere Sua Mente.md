@@ -27,8 +27,7 @@ Constantemente tive que revisar a IA para se adequar ao meu tipo de visão, o pr
 me ajudam em diferentes áreas de conhecimento gerando e aperfeiçoando ideias de todos os tipos e quanto mais fala sobre o
 assunto proposto mais a IA se molda pra usar as minhas palavras e ser mais natural possível
 ```
-README.md
-
+https://github.com/user-attachments/files/17850209/Libere.Sua.Mente.dos.Pensamentos.Negativos.pdf
 
 
 
