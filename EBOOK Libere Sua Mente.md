@@ -1,7 +1,4 @@
 
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
@@ -11,9 +8,9 @@
 Um auto ajuda para aqueles que se sentem presos a própria mente
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
-Copilot
-Leonardo AI
+ChatGPT (https://chatgpt.com/)
+Copilot (https://copilot.microsoft.com/?msockid=27d63878262e694f3e082cf4277f68ec)
+Leonardo AI (https://leonardo.ai/)
 
 
 ## 🧐 Processo de Criação
